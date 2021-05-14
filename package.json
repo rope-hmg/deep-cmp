@@ -1,9 +1,17 @@
 {
   "name": "deep-cmp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A deep object comparison library",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "keywords": [
+      "deep",
+      "comparison",
+      "compare",
+      "equals",
+      "strictSubset",
+      "partialSubset"
+  ],
   "scripts": {
     "test": "tsc && node ./dist/test.js",
     "build": "tsc"
