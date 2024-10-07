@@ -1,6 +1,6 @@
 {
   "name": "deep-cmp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A deep object comparison library",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
